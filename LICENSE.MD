@@ -1,0 +1,1 @@
+You're not allowed to use, but you may contact me to get a private personal license.

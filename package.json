@@ -1,0 +1,17 @@
+{
+  "name": "jewel",
+  "version": "0.0.1",
+  "description": "WebGL example",
+  "author": "gvm",
+  "license": "PRIVATE, see LICENSE.MD",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.33.2",
+    "webpack-cli": "^4.6.0"
+  },
+  "scripts": {
+    "build": "webpack build",
+    "watch": "webpack --watch --mode=development",
+    "watch1": "webpack --watch --mode=development -d inline-source-map"
+  }
+}
